@@ -1,0 +1,84 @@
+Player,Age,Position,Round,Pick,College
+Baker Mayfield,23,QB,1,1,Oklahoma
+Saquon Barkley,21,RB,1,2,Penn St.
+Sam Darnold,21,QB,1,3,USC
+Josh Allen,22,QB,1,7,Wyoming
+Josh Rosen,21,QB,1,10,UCLA
+D.J. Moore,21,WR,1,24,Maryland
+Hayden Hurst,25,TE,1,25,South Carolina
+Calvin Ridley,23,WR,1,26,Alabama
+Rashaad Penny,22,RB,1,27,San Diego St.
+Sony Michel,23,RB,1,31,Georgia
+Lamar Jackson,21,QB,1,32,Louisville
+Nick Chubb,22,RB,2,35,Georgia
+Ronald Jones II,21,RB,2,38,USC
+Courtland Sutton,22,WR,2,40,SMU
+Mike Gesicki,22,TE,2,42,Penn St.
+Kerryon Johnson,21,RB,2,43,Auburn
+Dante Pettis,22,WR,2,44,Washington
+Christian Kirk,21,WR,2,47,Texas A&M
+Dallas Goedert,23,TE,2,49,South Dakota St.
+Anthony Miller,23,WR,2,51,Memphis
+Derrius Guice,21,RB,2,59,LSU
+James Washington,22,WR,2,60,Oklahoma St.
+DJ Chark,21,WR,2,61,LSU
+Royce Freeman,22,RB,3,71,Oregon
+Mason Rudolph,23,QB,3,76,Oklahoma St.
+Michael Gallup,22,WR,3,81,Colorado St.
+Mark Andrews,23,TE,3,86,Oklahoma
+Tre'Quan Smith,22,WR,3,91,Central Florida
+Jordan Akins,26,TE,3,98,Central Florida
+Ian Thomas,22,TE,4,101,Indiana
+Keke Coutee,21,WR,4,103,Texas Tech
+Nyheim Hines,21,RB,4,104,North Carolina St.
+Antonio Callaway,21,WR,4,105,Florida
+Chris Herndon,22,TE,4,107,Miami (FL)
+Kyle Lauletta,23,QB,4,108,Richmond
+Mark Walton,21,RB,4,112,Miami (FL)
+DaeSean Hamilton,23,WR,4,113,Penn St.
+Will Dissly,22,TE,4,120,Washington
+Durham Smythe,23,TE,4,123,Notre Dame
+Ito Smith,22,RB,4,126,Southern Miss
+Kalen Ballage,22,RB,4,131,Arizona St.
+Jaleel Scott,23,WR,4,132,New Mexico St.
+J'Mon Moore,23,WR,4,133,Missouri
+Chase Edmonds,22,RB,4,134,Fordham
+Dalton Schultz,22,TE,4,137,Stanford
+Justin Watson,22,WR,5,144,Pennsylvania
+Troy Fumagalli,23,TE,5,156,Wisconsin
+Tyler Conklin,23,TE,5,157,Central Michigan
+Daurice Fountain,22,WR,5,159,Northern Iowa
+Jordan Lasley,21,WR,5,162,UCLA
+Jaylen Samuels,22,TE,5,165,North Carolina St.
+Jordan Wilkins,24,RB,5,169,Mississippi
+Mike White,23,QB,5,171,Western Kentucky
+Marquez Valdes-Scantling,23,WR,5,174,South Florida
+Damion Ratley,23,WR,6,175,Texas A&M
+John Kelly,21,RB,6,176,Tennessee
+Deon Cain,22,WR,6,185,Clemson
+Ray-Ray McCloud,21,WR,6,187,Clemson
+Dylan Cantrell,24,WR,6,191,Texas Tech
+Russell Gage,22,WR,6,194,LSU
+Tremon Smith,22,WR,6,196,Central Arkansas
+Luke Falk,23,QB,6,199,Washington St.
+Boston Scott,23,RB,6,201,Louisiana Tech
+Tanner Lee,23,QB,6,203,Nebraska
+Trenton Cannon,24,RB,6,204,Virginia St.
+Equanimeous St. Brown,21,WR,6,207,Notre Dame
+Cedrick Wilson Jr.,22,WR,6,208,Boise St.
+Braxton Berrios,22,WR,6,210,Miami (FL)
+Jordan Thomas,22,TE,6,211,Mississippi St.
+Danny Etling,24,QB,7,219,LSU
+Alex McGough,22,QB,7,220,Florida International
+Javon Wims,23,WR,7,224,Georgia
+David Williams,24,RB,7,226,Arkansas
+Marcell Ateman,23,WR,7,228,Oklahoma St.
+Bo Scarbrough,23,RB,7,236,Alabama
+Nick Bawden,22,RB,7,237,San Diego St.
+Richie James,23,WR,7,240,Middle Tenn. St.
+Logan Woodside,23,QB,7,249,Toledo
+Ryan Izzo,22,TE,7,250,Florida St.
+Justin Jackson,22,RB,7,251,Northwestern
+Auden Tate,21,WR,7,253,Florida St.
+Austin Proehl,22,WR,7,255,North Carolina
+Trey Quinn,22,WR,7,256,SMU

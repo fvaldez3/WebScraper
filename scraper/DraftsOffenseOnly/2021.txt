@@ -1,0 +1,76 @@
+Player,Age,Position,Round,Pick,College
+Trevor Lawrence,21,QB,1,1,Clemson
+Zach Wilson,22,QB,1,2,BYU
+Trey Lance,21,QB,1,3,North Dakota St.
+Kyle Pitts,20,TE,1,4,Florida
+Ja'Marr Chase,21,WR,1,5,LSU
+Jaylen Waddle,22,WR,1,6,Alabama
+DeVonta Smith,22,WR,1,10,Alabama
+Justin Fields,22,QB,1,11,Ohio St.
+Mac Jones,23,QB,1,15,Alabama
+Kadarius Toney,22,WR,1,20,Florida
+Najee Harris,23,RB,1,24,Alabama
+Travis Etienne,22,RB,1,25,Clemson
+Rashod Bateman,21,WR,1,27,Minnesota
+Elijah Moore,21,WR,2,34,Mississippi
+Javonte Williams,21,RB,2,35,North Carolina
+Rondale Moore,21,WR,2,49,Purdue
+Pat Freiermuth,22,TE,2,55,Penn St.
+D'Wayne Eskridge,24,WR,2,56,Western Michigan
+Tutu Atwell,21,WR,2,57,Louisville
+Terrace Marshall Jr.,21,WR,2,59,LSU
+Kyle Trask,23,QB,2,64,Florida
+Kellen Mond,22,QB,3,66,Texas A&M
+Davis Mills,22,QB,3,67,Stanford
+Josh Palmer,22,WR,3,77,Tennessee
+Hunter Long,23,TE,3,81,Boston Col.
+Dyami Brown,21,WR,3,82,North Carolina
+Tommy Tremble,21,TE,3,83,Notre Dame
+Amari Rodgers,21,WR,3,85,Clemson
+Trey Sermon,22,RB,3,88,Ohio St.
+Nico Collins,22,WR,3,89,Michigan
+Anthony Schwartz,21,WR,3,91,Auburn
+Tre' McKitty,22,TE,3,97,Georgia
+Michael Carter,22,RB,4,107,North Carolina
+Dez Fitzpatrick,23,WR,4,109,Louisville
+Amon-Ra St. Brown,21,WR,4,112,USC
+Kene Nwangwu,23,RB,4,119,Iowa St.
+Rhamondre Stevenson,23,RB,4,120,Oklahoma
+John Bates,23,TE,4,124,Boise St.
+Chuba Hubbard,22,RB,4,126,Oklahoma St.
+Kylen Granson,23,TE,4,127,SMU
+Jaelon Darden,22,WR,4,129,North Texas
+Tylan Wallace,22,WR,4,131,Oklahoma St.
+Ian Book,23,QB,4,133,Notre Dame
+Jacob Harris,24,WR,4,141,Central Florida
+Luke Farrell,23,TE,5,145,Ohio St.
+Brevin Jordan,21,TE,5,147,Miami (FL)
+Kenneth Gainwell,22,RB,5,150,Memphis
+Ihmir Smith-Marsette,22,WR,5,157,Iowa
+Noah Gray,22,TE,5,162,Duke
+Zach Davidson,23,TE,5,168,Central Missouri St.
+Simi Fehoko,23,WR,5,179,Stanford
+Cornell Powell,23,WR,5,181,Clemson
+Frank Darby,23,WR,6,187,Arizona St.
+Elijah Mitchell,23,RB,6,194,Louisiana
+Gary Brightwell,22,RB,6,196,Arizona
+Larry Rountree,22,RB,6,198,Missouri
+Chris Evans,23,RB,6,202,Michigan
+Marquez Stevenson,23,WR,6,203,Houston
+Shi Smith,22,WR,6,204,South Carolina
+Racey McMath,22,WR,6,205,LSU
+Jalen Camp,23,WR,6,209,Georgia Tech
+Demetric Felton,23,RB,6,211,UCLA
+Khalil Herbert,23,RB,6,217,Virginia Tech
+Sam Ehlinger,22,QB,6,218,Texas
+Seth Williams,21,WR,6,219,Auburn
+Dazz Newsome,22,WR,6,221,North Carolina
+Mike Strachan,24,WR,7,229,Charleston (WV)
+Jake Funk,23,RB,7,233,Maryland
+Tre Nixon,23,WR,7,242,Central Florida
+Gerrid Doaks,23,RB,7,244,Cincinnati
+Ben Skowronek,24,WR,7,249,Notre Dame
+Kawaan Baker,23,WR,7,255,South Alabama
+Kylin Hill,23,RB,7,256,Mississippi St.
+Jermar Jefferson,21,RB,7,257,Oregon St.
+Dax Milne,22,WR,7,258,BYU

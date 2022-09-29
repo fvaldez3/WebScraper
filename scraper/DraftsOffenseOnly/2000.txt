@@ -1,0 +1,82 @@
+Player,Age,Position,Round,Pick,College
+Peter Warrick,23,WR,1,4,Florida St.
+Jamal Lewis,21,RB,1,5,Tennessee
+Thomas Jones,22,RB,1,7,Virginia
+Plaxico Burress,23,WR,1,8,Michigan St.
+Travis Taylor,22,WR,1,10,Florida
+Ron Dayne,22,RB,1,11,Wisconsin
+Bubba Franks,22,TE,1,14,Miami (FL)
+Chad Pennington,24,QB,1,18,Marshall
+Shaun Alexander,23,RB,1,19,Alabama
+Sylvester Morris,22,WR,1,21,Jackson St.
+Anthony Becht,23,TE,1,27,West Virginia
+R. Jay Soward,22,WR,1,29,USC
+Trung Canidate,23,RB,1,31,Arizona
+Dennis Northcutt,22,WR,2,32,Arizona
+Todd Pinkston,23,WR,2,36,Southern Miss
+Jerry Porter,22,WR,2,47,West Virginia
+Travis Prentice,23,RB,3,63,Miami (OH)
+Giovanni Carmazzi,,QB,3,65,Hofstra
+Ron Dugans,23,WR,3,66,Florida St.
+Erron Kinney,23,TE,3,68,Florida
+Dez White,21,WR,3,69,Georgia Tech
+Chris Cole,22,WR,3,70,Texas A&M
+Ron Dixon,24,WR,3,73,Lambuth
+Chris Redman,23,QB,3,75,Louisville
+J.R. Redmond,22,RB,3,76,Arizona St.
+Laveranues Coles,22,WR,3,78,Florida St.
+JaJuan Dawson,22,WR,3,79,Tulane
+Darrell Jackson,21,WR,3,80,Florida
+Reuben Droughns,22,RB,3,81,Oregon
+Dustin Lyman,24,TE,3,87,Wake Forest
+Doug Chapman,23,RB,3,88,Marshall
+Curtis Keaton,23,RB,4,97,James Madison
+Gari Scott,22,WR,4,99,Michigan St.
+Danny Farmer,23,WR,4,103,UCLA
+Aaron Shea,23,TE,4,110,Michigan
+Trevor Gaylor,22,WR,4,111,Miami (OH)
+Anthony Lucas,,WR,4,114,Arkansas
+Frank Moreau,23,RB,4,115,Louisville
+Avion Black,23,WR,4,121,Tennessee St.
+Paul Smith,22,RB,5,132,Texas-El Paso
+Dave Stachelski,23,TE,5,141,Boise St.
+Windrell Hayes,23,WR,5,143,USC
+Michael Wiley,22,RB,5,144,Ohio St.
+Joey Jamison,,WR,5,151,Texas Southern
+Dante Hall,21,WR,5,153,Texas A&M
+Muneer Moore,,WR,5,154,Richmond
+Sammy Morris,23,RB,5,156,Texas Tech
+James Whalen,22,TE,5,157,Kentucky
+Austin Wheatley,22,TE,5,158,Iowa
+Tee Martin,22,QB,5,163,Tennessee
+Jay Tant,22,TE,5,164,Northwestern
+Troy Walters,23,WR,5,165,Stanford
+Chad Morton,23,RB,5,166,USC
+Marc Bulger,23,QB,6,168,West Virginia
+Frank Murphy,23,WR,6,170,Kansas St.
+Thomas Hamner,,RB,6,171,Minnesota
+Mareno Philyaw,22,WR,6,172,Troy
+James Williams,22,WR,6,175,Marshall
+Spergon Wynn,22,QB,6,183,Texas St.
+Mike Anderson,26,RB,6,189,Utah
+Emanuel Smith,24,WR,6,196,Arkansas
+Tom Brady,23,QB,6,199,Michigan
+Sherrod Gideon,,WR,6,200,Southern Miss
+Todd Husak,22,QB,6,202,Stanford
+Jason Gavadza,,TE,6,204,Kent St.
+JaJuan Seider,,QB,6,205,Florida A&M
+Desmond Kitchings,,WR,7,208,Furman
+Brad St. Louis,24,TE,7,210,Missouri State
+Tim Rattay,23,QB,7,212,Louisiana Tech
+Mike Green,24,RB,7,213,Houston
+Jarious Jackson,23,QB,7,214,Notre Dame
+Mondriel Fulcher,23,TE,7,227,Miami (FL)
+Brian Jennings,23,TE,7,230,Arizona St.
+Drew Haddad,22,WR,7,233,Buffalo
+Joe Hamilton,23,QB,7,234,Georgia Tech
+Charles Lee,22,WR,7,242,Central Florida
+Shyrone Stith,22,RB,7,243,Virginia Tech
+Giles Cole,,TE,7,244,Texas A&M-Kingsville
+Leroy Fields,,WR,7,246,Jackson St.
+Ethan Howell,,WR,7,250,Oklahoma St.
+Rondell Mealey,23,RB,7,252,LSU

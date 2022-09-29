@@ -1,0 +1,77 @@
+Player,Age,Position,Round,Pick,College
+Michael Vick,21,QB,1,1,Virginia Tech
+LaDainian Tomlinson HOF,22,RB,1,5,TCU
+David Terrell,22,WR,1,8,Michigan
+Koren Robinson,21,WR,1,9,North Carolina St.
+Rod Gardner,23,WR,1,15,Clemson
+Santana Moss,22,WR,1,16,Miami (FL)
+Deuce McAllister,22,RB,1,23,Mississippi
+Freddie Mitchell,22,WR,1,25,UCLA
+Michael Bennett,23,RB,1,27,Wisconsin
+Reggie Wayne,22,WR,1,30,Miami (FL)
+Todd Heap,21,TE,1,31,Arizona St.
+Drew Brees,22,QB,2,32,Purdue
+Quincy Morgan,23,WR,2,33,Kansas St.
+Alge Crumpler,23,TE,2,35,North Carolina
+Chad Johnson,23,WR,2,36,Oregon St.
+Anthony Thomas,23,RB,2,38,Michigan
+Robert Ferguson,21,WR,2,41,Texas A&M
+LaMont Jordan,22,RB,2,49,Maryland
+Chris Chambers,23,WR,2,52,Wisconsin
+Quincy Carter,23,QB,2,53,Georgia
+Travis Henry,22,RB,2,58,Tennessee
+Marques Tuiasosopo,22,QB,2,59,Washington
+James Jackson,25,RB,3,65,Miami (FL)
+Sean Brewer,23,TE,3,66,San Jose St.
+Steve Smith Sr.,22,WR,3,74,Utah
+Snoop Minnis,24,WR,3,77,Florida St.
+Kevan Barlow,22,RB,3,80,Pittsburgh
+Travis Minor,22,RB,3,85,Florida St.
+Shad Meier,23,TE,3,90,Kansas St.
+Rudi Johnson,21,RB,4,100,Auburn
+Chris Weinke,29,QB,4,106,Florida St.
+George Layne,22,RB,4,108,TCU
+Sage Rosenfels,23,QB,4,109,Iowa St.
+Milton Wynn,22,WR,4,116,Washington St.
+Jabari Holloway,22,TE,4,119,Notre Dame
+Correll Buckhalter,22,RB,4,121,Nebraska
+Justin McCareins,22,WR,4,124,Northern Illinois
+Jesse Palmer,22,QB,4,125,Florida
+Brandon Manumaleuna,21,TE,4,129,Arizona
+Cedric James,22,WR,4,131,TCU
+Vinny Sutherland,23,WR,5,136,Purdue
+Alex Bannister,22,WR,5,140,East. Kentucky
+Bill Baber,22,TE,5,141,Virginia
+Tony Stewart,22,TE,5,147,Penn St.
+Scotty Anderson,21,WR,5,148,Grambling St.
+Mike McMahon,22,QB,5,149,Rutgers
+Derrick Blaylock,22,RB,5,150,S.F. Austin
+Onomo Ojo,,WR,5,153,UC Davis
+Darnerien McCants,24,WR,5,154,Delaware St.
+A.J. Feeley,24,QB,5,155,Oregon
+Eddie Berlin,23,WR,5,159,Northern Iowa
+Chris Barnes,,RB,5,161,New Mexico St.
+Jonathan Carter,22,WR,5,162,Troy
+Bobby Newcombe,,WR,6,166,Nebraska
+Cedrick Wilson,22,WR,6,169,Tennessee
+Josh Booty,,QB,6,172,LSU
+Dee Brown,23,RB,6,175,Syracuse
+Josh Heupel,,QB,6,177,Oklahoma
+Arther Love,,TE,6,180,South Carolina St.
+Kevin Kasper,23,WR,6,190,Iowa
+Dan Alexander,23,RB,6,192,Nebraska
+Dan O'Leary,24,TE,6,195,Notre Dame
+Francis St. Paul,,WR,6,197,Northern Arizona
+David Martin,22,TE,6,198,Tennessee
+T.J. Houshmandzadeh,23,WR,7,204,Oregon St.
+Dauntae' Finger,,TE,7,205,North Carolina
+John Capel,,WR,7,208,Florida
+Reggie Germany,23,WR,7,214,Ohio St.
+Chris Taylor,22,WR,7,218,Texas A&M
+Eric Johnson,21,TE,7,224,Yale
+Mike Roberg,23,TE,7,227,Idaho
+Ken-Yon Rambo,22,WR,7,229,Ohio St.
+Richmond Flowers III,,WR,7,235,Chattanooga
+Quentin McCord,23,WR,7,236,Kentucky
+Andre King,27,WR,7,245,Miami (FL)
+Tevita Ofahengaue,,TE,7,246,BYU

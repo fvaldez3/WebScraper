@@ -1,0 +1,81 @@
+Player,Age,Position,Round,Pick,College
+JaMarcus Russell,22,QB,1,1,LSU
+Calvin Johnson HOF,21,WR,1,2,Georgia Tech
+Adrian Peterson,22,RB,1,7,Oklahoma
+Ted Ginn Jr.,22,WR,1,9,Ohio St.
+Marshawn Lynch,21,RB,1,12,California
+Brady Quinn,22,QB,1,22,Notre Dame
+Dwayne Bowe,22,WR,1,23,LSU
+Robert Meachem,22,WR,1,27,Tennessee
+Craig Davis,21,WR,1,30,LSU
+Greg Olsen,22,TE,1,31,Miami (FL)
+Anthony Gonzalez,22,WR,1,32,Ohio St.
+Kevin Kolb,23,QB,2,36,Houston
+Zach Miller,21,TE,2,38,Arizona St.
+John Beck,26,QB,2,40,BYU
+Drew Stanton,23,QB,2,43,Michigan St.
+Sidney Rice,21,WR,2,44,South Carolina
+Dwayne Jarrett,20,WR,2,45,USC
+Kenny Irons,,RB,2,49,Auburn
+Chris Henry,22,RB,2,50,Arizona
+Steve Smith,22,WR,2,51,USC
+Brian Leonard,23,RB,2,52,Rutgers
+Brandon Jackson,21,RB,2,63,Nebraska
+Lorenzo Booker,23,RB,3,71,Florida St.
+Jacoby Jones,23,WR,3,73,Lane
+Yamon Figurs,24,WR,3,74,Kansas St.
+Laurent Robinson,22,WR,3,75,Illinois St.
+Jason Hill,22,WR,3,76,Washington St.
+Matt Spaeth,23,TE,3,77,Minnesota
+James Jones,23,WR,3,78,San Jose St.
+Mike Sims-Walker,22,WR,3,79,Central Florida
+Paul Williams,23,WR,3,80,Fresno St.
+Tony Hunt,21,RB,3,90,Penn St.
+Trent Edwards,23,QB,3,92,Stanford
+Garrett Wolfe,23,RB,3,93,Northern Illinois
+Johnnie Lee Higgins,23,WR,3,99,Texas-El Paso
+Michael Bush,23,RB,4,100,Louisville
+Isaiah Stanback,23,QB,4,103,Washington
+Antonio Pittman,21,RB,4,107,Ohio St.
+Dwayne Wright,24,RB,4,111,Fresno St.
+Ryne Robinson,22,WR,4,118,Miami (OH)
+Chris Davis,23,WR,4,128,Florida St.
+Scott Chandler,22,TE,4,129,Iowa
+Martrez Milner,23,TE,4,133,Georgia
+Le'Ron McClain,22,RB,4,137,Alabama
+Steve Breaston,24,WR,5,142,Michigan
+Aundrae Allison,21,WR,5,146,East Carolina
+Kolby Smith,22,RB,5,148,Louisville
+Jeff Rowe,23,QB,5,151,Nevada
+Kevin Boss,23,TE,5,153,Western Oregon
+Dante Rosario,22,TE,5,155,Oregon
+David Clowney,22,WR,5,157,Virginia Tech
+Brent Celek,22,TE,5,162,Cincinnati
+Roy Hall,23,WR,5,169,Ohio St.
+Legedu Naanee,23,WR,5,172,Boise St.
+Troy Smith,23,QB,5,174,Ohio St.
+Reagan Maui'a,23,RB,6,181,Hawaii
+Thomas Clayton,,RB,6,186,Kansas St.
+Joel Filani,,WR,6,188,Texas Tech
+Courtney Taylor,23,WR,6,197,Auburn
+Jordan Palmer,23,QB,6,205,Texas-El Paso
+Justise Hairston,,RB,6,208,Central Connecticut St.
+Jordan Kent,23,WR,6,210,Oregon
+Ben Patrick,23,TE,7,215,Delaware
+Tyler Ecker,,TE,7,216,Michigan
+Tyler Thigpen,23,QB,7,217,Coastal Carolina
+Derek Schouman,22,TE,7,222,Boise St.
+Dallas Baker,24,WR,7,227,Florida
+DeShawn Wynn,23,RB,7,228,Florida
+John Broussard,23,WR,7,229,San Jose St.
+Michael Allan,,TE,7,231,Whitworth
+Chandler Williams,,WR,7,233,Florida International
+Syndric Steptoe,22,WR,7,234,Arizona
+Chansi Stuckey,23,WR,7,235,Clemson
+Nate Ilaoa,,RB,7,236,Hawaii
+Clark Harris,23,TE,7,243,Rutgers
+Jason Snelling,23,RB,7,244,Virginia
+Kenneth Darby,24,RB,7,246,Alabama
+Derek Stanley,22,WR,7,249,Wisconsin–Whitewater
+Ahmad Bradshaw,21,RB,7,250,Marshall
+Jonathan Holland,22,WR,7,254,Louisiana Tech

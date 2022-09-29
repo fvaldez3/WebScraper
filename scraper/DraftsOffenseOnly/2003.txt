@@ -1,0 +1,77 @@
+Player,Age,Position,Round,Pick,College
+Carson Palmer,23,QB,1,1,USC
+Charles Rogers,22,WR,1,2,Michigan St.
+Andre Johnson,22,WR,1,3,Miami (FL)
+Byron Leftwich,23,QB,1,7,Marshall
+Bryant Johnson,22,WR,1,17,Penn St.
+Kyle Boller,22,QB,1,19,California
+Rex Grossman,23,QB,1,22,Florida
+Willis McGahee,21,RB,1,23,Miami (FL)
+Dallas Clark,24,TE,1,24,Iowa
+Larry Johnson,23,RB,1,27,Penn St.
+Bennie Joppru,23,TE,2,41,Michigan
+Taylor Jacobs,22,WR,2,44,Florida
+Bethel Johnson,24,WR,2,45,Texas A&M
+Anquan Boldin,22,WR,2,54,Florida St.
+Tyrone Calico,22,WR,2,60,Middle Tenn. St.
+L.J. Smith,23,TE,2,61,Rutgers
+Teyo Johnson,21,TE,2,63,Stanford
+Kelley Washington,24,WR,3,65,Tennessee
+Jason Witten,21,TE,3,69,Tennessee
+Nate Burleson,22,WR,3,71,Nevada
+Kevin Curtis,25,WR,3,74,Utah St.
+Mike Seidman,22,TE,3,76,UCLA
+Musa Smith,21,RB,3,77,Georgia
+Dave Ragone ,23,QB,3,88,Louisville
+Visanthe Shiancoe,23,TE,3,91,Morgan St.
+Chris Brown,22,RB,3,93,Colorado
+Billy McMullen,23,WR,3,95,Virginia
+Chris Simms,23,QB,3,97,Texas
+Artose Pinner,25,RB,4,99,Kentucky
+Domanick Williams,22,RB,4,101,LSU
+George Wrighster,22,TE,4,104,Oregon
+Onterrio Smith,22,RB,4,105,Oregon
+Shaun McDonald,22,WR,4,106,Arizona St.
+Quentin Griffin,22,RB,4,108,Oklahoma
+Seneca Wallace,23,QB,4,110,Iowa St.
+Lee Suggs,23,RB,4,115,Virginia Tech
+Brandon Lloyd,22,WR,4,124,Illinois
+Sam Aiken,22,WR,4,127,North Carolina
+LaBrandon Toefield,22,RB,4,132,LSU
+Bobby Wade,22,WR,5,139,Arizona
+Justin Gage,22,WR,5,143,Missouri
+Donald Lee,23,TE,5,156,Mississippi St.
+Adrian Madise,23,WR,5,158,TCU
+Jon Olinger,,WR,5,159,Cincinnati
+Aaron Walker,23,TE,5,161,Florida
+Brian St. Pierre,23,QB,5,163,Boston Col.
+Doug Gabriel,23,WR,5,167,Central Florida
+J.R. Tolver,,WR,5,169,San Diego St.
+David Kircus,23,WR,6,175,Grand Valley St.
+Zuriel Smith,23,WR,6,186,Hampton
+Drew Henson,23,QB,6,192,Michigan
+LaTarence Dunbar,23,WR,6,196,TCU
+Arnaz Battle,23,WR,6,197,Notre Dame
+Willie Ponder,23,WR,6,199,SE Missouri St.
+Brooks Bollinger,23,QB,6,200,Wisconsin
+Kliff Kingsbury,24,QB,6,201,Texas Tech
+Kareem Kelly,,WR,6,203,USC
+Brock Forsey,23,RB,6,206,Boise St.
+David Tyree,23,WR,6,211,Syracuse
+Keenan Howry,22,WR,7,221,Oregon
+Trent Smith,23,TE,7,223,Oklahoma
+Taco Wallace,22,WR,7,224,Kansas St.
+Walter Young,23,WR,7,226,Illinois
+Talman Gardner,23,WR,7,231,Florida St.
+Gibran Hamdan,22,QB,7,232,Indiana
+Ahmaad Galloway,,RB,7,235,Alabama
+Brandon Drumm,,RB,7,236,Colorado
+Ken Dorsey,22,QB,7,241,Miami (FL)
+J.T. Wall,,RB,7,242,Georgia
+Casey Moore,,RB,7,247,Stanford
+DeAndrew Rubin,,WR,7,253,South Florida
+Richard Angulo,23,TE,7,254,Western New Mexico
+Kevin Walter,22,WR,7,255,East. Michigan
+Carl Ford,22,WR,7,256,Toledo
+Travis Anglin,,WR,7,260,Memphis
+Ryan Hoag,,WR,7,262,Gustavus Adolphus

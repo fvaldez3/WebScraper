@@ -1,0 +1,80 @@
+Player,Age,Position,Round,Pick,College
+Drake London,21,WR,1,8,USC
+Garrett Wilson,22,WR,1,10,Ohio St.
+Chris Olave,22,WR,1,11,Ohio St.
+Jameson Williams,21,WR,1,12,Alabama
+Jahan Dotson,22,WR,1,16,Penn St.
+Treylon Burks,22,WR,1,18,Arkansas
+Kenny Pickett,24,QB,1,20,Pittsburgh
+Christian Watson,23,WR,2,34,North Dakota St.
+Breece Hall,21,RB,2,36,Iowa St.
+Kenneth Walker III,21,RB,2,41,Michigan St.
+Wan'Dale Robinson,21,WR,2,43,Kentucky
+John Metchie,22,WR,2,44,Alabama
+Tyquan Thornton,22,WR,2,50,Baylor
+George Pickens,21,WR,2,52,Georgia
+Alec Pierce,22,WR,2,53,Cincinnati
+Skyy Moore,21,WR,2,54,Western Michigan
+Trey McBride,22,TE,2,55,Colorado St.
+James Cook,22,RB,2,63,Georgia
+Velus Jones,25,WR,3,71,Tennessee
+Jelani Woods,23,TE,3,73,Virginia
+Desmond Ridder,23,QB,3,74,Cincinnati
+Greg Dulcich,22,TE,3,80,UCLA
+Malik Willis,23,QB,3,86,Liberty
+Jalen Tolbert,23,WR,3,88,South Alabama
+Rachaad White,23,RB,3,91,Arizona St.
+Tyrion Davis-Price,21,RB,3,93,LSU
+Matt Corral,23,QB,3,94,Mississippi
+Brian Robinson,23,RB,3,98,Alabama
+David Bell,21,WR,3,99,Purdue
+Jeremy Ruckert,22,TE,3,101,Ohio St.
+Danny Gray,23,WR,3,105,SMU
+Cade Otton,23,TE,4,106,Washington
+Dameon Pierce,22,RB,4,107,Florida
+Daniel Bellinger,21,TE,4,112,San Diego St.
+Zamir White,22,RB,4,122,Georgia
+Isaiah Spiller,21,RB,4,123,Texas A&M
+Erik Ezukanma,22,WR,4,125,Texas Tech
+Pierre Strong,23,RB,4,127,South Dakota St.
+Charlie Kolar,23,TE,4,128,Iowa St.
+Jake Ferguson,23,TE,4,129,Wisconsin
+Hassan Haskins,22,RB,4,131,Michigan
+Romeo Doubs,22,WR,4,132,Nevada
+Bailey Zappe,23,QB,4,137,Western Kentucky
+Calvin Austin,23,WR,4,138,Memphis
+Isaiah Likely,22,TE,4,139,Coastal Carolina
+Chigoziem Okonkwo,22,TE,4,143,Maryland
+Sam Howell,21,QB,5,144,North Carolina
+Khalil Shakir,22,WR,5,148,Boise St.
+Cole Turner,22,TE,5,149,Nevada
+Tyler Allgeier,22,RB,5,151,BYU
+Snoop Conner,22,RB,5,154,Mississippi
+Jerome Ford,22,RB,5,156,Cincinnati
+Montrell Washington,23,WR,5,162,Samford
+Kyle Philips,23,WR,5,163,UCLA
+Kyren Williams,22,RB,5,164,Notre Dame
+Ty Chandler,24,RB,5,169,North Carolina
+Teagan Quitoriano,22,TE,5,170,Oregon St.
+James Mitchell,23,TE,5,177,Virginia Tech
+Kevin Harris,21,RB,6,183,South Carolina
+Jalen Nailor,23,WR,6,191,Michigan St.
+Andrew Ogletree,24,TE,6,192,Youngstown St.
+Tyler Badie,22,RB,6,196,Missouri
+Grant Calcaterra,23,TE,6,198,SMU
+Keaontay Ingram,22,RB,6,201,USC
+Michael Woods,22,WR,6,202,Oklahoma
+Trestan Ebner,23,RB,6,203,Baylor
+Connor Heyward,23,TE,6,208,Michigan St.
+John FitzPatrick,22,TE,6,213,Georgia
+Ko Kieft,24,TE,6,218,Minnesota
+Nick Muse,23,TE,7,227,South Carolina
+Bo Melton,23,WR,7,229,Rutgers
+Dareke Young,23,WR,7,233,Lenoir-Rhyne
+Chris Oladokun,25,QB,7,241,South Dakota St.
+Skylar Thompson,25,QB,7,247,Kansas St.
+Brittain Brown,24,RB,7,250,UCLA
+Isiah Pacheco,22,RB,7,251,Rutgers
+Samori Toure,24,WR,7,258,Nebraska
+Zander Horvath,23,RB,7,260,Purdue
+Brock Purdy,22,QB,7,262,Iowa St.

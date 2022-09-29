@@ -1,0 +1,96 @@
+Player,Age,Position,Round,Pick,College
+David Carr,23,QB,1,1,Fresno St.
+Joey Harrington,23,QB,1,3,Oregon
+Donte' Stallworth,21,WR,1,13,Tennessee
+Jeremy Shockey,22,TE,1,14,Miami (FL)
+William Green,22,RB,1,16,Boston Col.
+T.J. Duckett,21,RB,1,18,Michigan St.
+Ashley Lelie,22,WR,1,19,Hawaii
+Javon Walker,23,WR,1,20,Florida St.
+Daniel Graham,23,TE,1,21,Colorado
+Jerramy Stevens,22,TE,1,28,Washington
+Patrick Ramsey,23,QB,1,32,Tulane
+Jabar Gaffney,21,WR,2,33,Florida
+DeShaun Foster,22,RB,2,34,UCLA
+Josh Reed,22,WR,2,36,LSU
+Tim Carter,22,WR,2,46,Auburn
+Andre' Davis,23,WR,2,47,Virginia Tech
+Reche Caldwell,23,WR,2,48,Florida
+Clinton Portis,21,RB,2,51,Miami (FL)
+Maurice Morris,22,RB,2,54,Oregon
+Doug Jolley,23,TE,2,55,BYU
+Ladell Betts,23,RB,2,56,Iowa
+Antwaan Randle El,23,WR,2,62,Indiana
+Antonio Bryant,21,WR,2,63,Pittsburgh
+Deion Branch,23,WR,2,65,Louisville
+Matt Schobel,23,TE,3,67,TCU
+Josh McCown,23,QB,3,81,Sam Houston St.
+Lamar Gordon,22,RB,3,84,North Dakota St.
+Marquis Walker,,WR,3,86,Michigan
+Cliff Russell,23,WR,3,87,Utah
+Chris Baker,22,TE,3,88,Michigan St.
+Brian Westbrook,23,RB,3,91,Villanova
+Eric Crouch,,WR,3,95,Nebraska
+Jonathan Wells,23,RB,4,99,Ohio St.
+Justin Peelle,23,TE,4,103,Oregon
+David Garrard,24,QB,4,108,East Carolina
+Randy McMichael,23,TE,4,114,Georgia
+Rohan Davey,24,QB,4,117,LSU
+Chris Luzar,23,TE,4,118,Virginia
+Travis Stephens,24,RB,4,119,Tennessee
+Darnell Sanders,23,TE,4,122,Ohio St.
+Ron Johnson,22,WR,4,123,Minnesota
+Najeh Davenport,23,RB,4,135,Miami (FL)
+Randy Fasani,23,QB,5,137,Stanford
+John Owens,22,TE,5,138,Notre Dame
+Terry Charles,,WR,5,142,Portland St.
+Herb Haygood,24,WR,5,144,Michigan St.
+Kyle Johnson,23,RB,5,145,Syracuse
+Jason McAddley,23,WR,5,149,Alabama
+Jake Schifino,22,WR,5,151,Akron
+Terry Jones,22,TE,5,155,Alabama
+Kurt Kittner,22,QB,5,158,Illinois
+Robert Royal,23,TE,5,160,LSU
+Freddie Milons,,WR,5,162,Alabama
+Brandon Doman,,QB,5,163,BYU
+Craig Nall,23,QB,5,164,LSU
+Verron Haynes,23,RB,5,166,Georgia
+Ryan Hannam,22,TE,5,169,Northern Iowa
+Sam Simmons,22,WR,5,170,Northwestern
+Keith Heinrich,23,TE,6,174,Sam Houston St.
+Kahlil Hill,23,WR,6,184,Iowa
+Josh Scobey,22,RB,6,185,Kansas St.
+J.T. O'Sullivan,23,QB,6,186,UC Davis
+Jeb Putzier,23,TE,6,191,Boise St.
+John Gilmore,22,TE,6,196,Penn St.
+Larry Ned,24,RB,6,197,San Diego St.
+Adrian Peterson,23,RB,6,199,Georgia Southern
+Mark Anelli,23,TE,6,201,Wisconsin
+Lee Mays,23,WR,6,202,Texas-El Paso
+Jamin Elliott,22,WR,6,203,Delaware
+Brian Allen,22,RB,6,204,Stanford
+Steve Bellisari,,QB,6,205,Ohio St.
+Javin Hunter,22,WR,6,206,Notre Dame
+Chester Taylor,22,RB,6,207,Toledo
+DeVeren Johnson,,WR,6,208,Sacred Heart
+Bryan Fletcher,23,TE,6,210,UCLA
+Bob Slowikowski,,TE,6,211,Virginia Tech
+Luke Staley,,RB,7,214,BYU
+Seth Burford,,QB,7,216,Cal Poly-San Luis Obispo
+Michael Coleman,,WR,7,217,Widener
+Kendall Newson,22,WR,7,222,Middle Tenn. St.
+Mike Banks,22,TE,7,223,Iowa St.
+Darrell Hill,23,WR,7,225,Northern Illinois
+Daryl Jones,23,WR,7,226,Miami (FL)
+Jeff Kelly,23,QB,7,232,Southern Miss
+Ronald Curry,23,WR,7,235,North Carolina
+Wes Pate,,QB,7,236,S.F. Austin
+Antwoine Womack,,RB,7,237,Virginia
+Leonard Henry,24,RB,7,241,East Carolina
+Chris Massey,23,RB,7,243,Marshall
+Rodney Wright,,WR,7,249,Fresno St.
+Tracey Wistrom,,TE,7,250,Nebraska
+Jarrett Ferguson,,RB,7,251,Virginia Tech
+Matt Murphy,22,TE,7,252,Maryland
+David Givens,22,WR,7,253,Notre Dame
+Aaron Lockett,,WR,7,254,Kansas St.

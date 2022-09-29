@@ -1,0 +1,76 @@
+Player,Age,Position,Round,Pick,College
+Reggie Bush,21,RB,1,2,USC
+Vince Young,23,QB,1,3,Texas
+Vernon Davis,22,TE,1,6,Maryland
+Matt Leinart,23,QB,1,10,USC
+Jay Cutler,23,QB,1,11,Vanderbilt
+Laurence Maroney,21,RB,1,21,Minnesota
+Santonio Holmes,22,WR,1,25,Ohio St.
+DeAngelo Williams,23,RB,1,27,Memphis
+Marcedes Lewis,22,TE,1,28,UCLA
+Joseph Addai,23,RB,1,30,LSU
+Chad Jackson,21,WR,2,36,Florida
+Sinorice Moss,22,WR,2,44,Miami (FL)
+LenDale White,21,RB,2,45,USC
+Joe Klopfenstein,22,TE,2,46,Colorado
+Kellen Clemens,23,QB,2,49,Oregon
+Greg Jennings,22,WR,2,52,Western Michigan
+Anthony Fasano,22,TE,2,53,Notre Dame
+Maurice Jones-Drew,21,RB,2,60,UCLA
+Tony Scheffler,23,TE,2,61,Western Michigan
+Tarvaris Jackson,23,QB,2,64,Alabama St.
+Leonard Pope,22,TE,3,72,Georgia
+Brian Calhoun,22,RB,3,74,Wisconsin
+Travis Wilson,22,WR,3,78,Oklahoma
+Jerious Norwood,23,RB,3,79,Mississippi St.
+Charlie Whitehurst,24,QB,3,81,Clemson
+Derek Hagan,21,WR,3,82,Arizona St.
+Brandon Williams,22,WR,3,84,Wisconsin
+Brodie Croyle,23,QB,3,85,Alabama
+David Thomas,23,TE,3,86,Texas
+Maurice Stovall,21,WR,3,90,Notre Dame
+Dominique Byrd,22,TE,3,93,USC
+Willie Reid,23,WR,3,95,Florida St.
+Owen Daniels,23,TE,4,98,Wisconsin
+Michael Robinson,23,WR,4,100,Penn St.
+Brad Smith,22,QB,4,103,Missouri
+Cory Rodgers,,WR,4,104,TCU
+Jason Avant,23,WR,4,109,Michigan
+Demetrius Williams,23,WR,4,111,Oregon
+Leon Washington,24,RB,4,117,Florida St.
+Brandon Marshall,22,WR,4,119,Central Florida
+Skyler Green,21,WR,4,125,LSU
+Domenik Hixon,21,WR,4,130,Akron
+P.J. Daniels,23,RB,4,132,Georgia Tech
+Marques Hagans,23,WR,5,144,Virginia
+Jerome Harrison,23,RB,5,145,Washington St.
+Ingle Martin,24,QB,5,148,Furman
+Jason Pociask,23,TE,5,150,Wisconsin
+Jeff King,23,TE,5,155,Virginia Tech
+David Kirtman,23,RB,5,163,USC
+Omar Jacobs,,QB,5,164,Bowling Green
+Quinn Sypniewski,24,TE,5,166,Colorado
+Charles Davis,,TE,5,167,Purdue
+Wali Lundy,22,RB,6,170,Virginia
+Mike Hass,23,WR,6,171,Oregon St.
+Jonathan Orr,,WR,6,172,Wisconsin
+Delanie Walker,22,WR,6,175,Central Missouri St.
+Adam Jennings,23,WR,6,184,Fresno St.
+Jeff Webb,24,WR,6,190,San Diego St.
+Reggie McNeal,22,QB,6,193,Texas A&M
+Bruce Gradkowski,23,QB,6,194,Toledo
+J.D. Runnels,22,RB,6,195,Oklahoma
+T.J. Williams,,TE,6,202,North Carolina St.
+Ethan Kilmer,23,WR,7,209,Penn St.
+Todd Watkins,23,WR,7,218,BYU
+Justin Hamilton,23,RB,7,222,Virginia Tech
+D.J. Shockley,,QB,7,223,Georgia
+Bennie Brazell,,WR,7,231,LSU
+Devin Aromashodu,22,WR,7,233,Auburn
+Cedric Humes,,RB,7,240,Virginia Tech
+Tim Massaquoi,24,TE,7,244,Michigan
+Quinton Ganther,22,RB,7,246,Utah
+Ben Obomanu,22,WR,7,249,Auburn
+David Anderson,23,WR,7,251,Colorado St.
+Marques Colston,23,WR,7,252,Hofstra
+Kevin McMahan,,WR,7,255,Maine

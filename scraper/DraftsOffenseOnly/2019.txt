@@ -1,0 +1,81 @@
+Player,Age,Position,Round,Pick,College
+Kyler Murray,22,QB,1,1,Oklahoma
+Daniel Jones,22,QB,1,6,Duke
+T.J. Hockenson,22,TE,1,8,Iowa
+Dwayne Haskins,22,QB,1,15,Ohio St.
+Noah Fant,21,TE,1,20,Iowa
+Josh Jacobs,21,RB,1,24,Alabama
+Marquise Brown,22,WR,1,25,Oklahoma
+N'Keal Harry,21,WR,1,32,Arizona St.
+Deebo Samuel,23,WR,2,36,South Carolina
+Drew Lock,22,QB,2,42,Missouri
+Irv Smith Jr.,21,TE,2,50,Alabama
+A.J. Brown,22,WR,2,51,Mississippi
+Drew Sample,23,TE,2,52,Washington
+Miles Sanders,22,RB,2,53,Penn St.
+Mecole Hardman,21,WR,2,56,Georgia
+JJ Arcega-Whiteside,22,WR,2,57,Stanford
+Parris Campbell,22,WR,2,59,Ohio St.
+Andy Isabella,22,WR,2,62,Massachusetts
+D.K. Metcalf,21,WR,2,64,Mississippi
+Diontae Johnson,23,WR,3,66,Toledo
+Jalen Hurd,23,WR,3,67,Baylor
+Josh Oliver,22,TE,3,69,San Jose St.
+Darrell Henderson,22,RB,3,70,Memphis
+David Montgomery,22,RB,3,73,Iowa St.
+Devin Singletary,22,RB,3,74,Florida Atlantic
+Jace Sternberger,23,TE,3,75,Texas A&M
+Terry McLaurin,23,WR,3,76,Ohio St.
+Kahale Warring,22,TE,3,86,San Diego St.
+Damien Harris,22,RB,3,87,Alabama
+Miles Boykin,22,WR,3,93,Notre Dame
+Dawson Knox,22,TE,3,96,Mississippi
+Will Grier,24,QB,3,100,West Virginia
+Alexander Mattison,21,RB,3,102,Boise St.
+Hakeem Butler,23,WR,4,103,Iowa St.
+Ryan Finley,24,QB,4,104,North Carolina St.
+Bryce Love,22,RB,4,112,Stanford
+Justice Hill,21,RB,4,113,Oklahoma St.
+Gary Jennings Jr,22,WR,4,120,West Virginia
+Trevon Wesco,23,TE,4,121,West Virginia
+Benny Snell Jr.,21,RB,4,122,Kentucky
+Riley Ridley,23,WR,4,126,Georgia
+Tony Pollard,22,RB,4,128,Memphis
+Jarrett Stidham,23,QB,4,133,Auburn
+Foster Moreau,22,TE,4,137,LSU
+Ryquell Armstead,22,RB,5,140,Temple
+Zach Gentry,22,TE,5,141,Michigan
+Hunter Renfrow,23,WR,5,149,Clemson
+Qadree Ollison,22,RB,5,152,Pittsburgh
+Jordan Scarlett,23,RB,5,154,Florida
+Easton Stick,23,QB,5,166,North Dakota St.
+Clayton Thorson,24,QB,5,167,Northwestern
+Darius Slayton,22,WR,5,171,Auburn
+KeeSean Johnson,22,WR,6,174,Fresno St.
+Kaden Smith,22,TE,6,176,Stanford
+Gardner Minshew II,23,QB,6,178,Washington St.
+Trayveon Williams,21,RB,6,182,Texas A&M
+Travis Fulgham,23,WR,6,184,Old Dominion
+Ty Johnson,21,RB,6,186,Maryland
+Juwann Winfree,23,WR,6,187,Colorado
+Dexter Williams,22,RB,6,194,Notre Dame
+Trace McSorley,24,QB,6,197,Penn St.
+Marcus Green,23,WR,6,203,La-Monroe
+Travis Homer,21,RB,6,204,Miami (FL)
+Kelvin Harmon,22,WR,6,206,North Carolina St.
+Scott Miller,22,WR,6,208,Bowling Green
+Rodney Anderson,22,RB,6,211,Oklahoma
+Darwin Thompson,22,RB,6,214,Utah St.
+Mike Weber,22,RB,7,218,Ohio St.
+Cullen Gillaspia,24,RB,7,220,Texas A&M
+Kerrith Whyte Jr,22,RB,7,222,Florida Atlantic
+Isaac Nauta,22,TE,7,224,Georgia
+Tommy Sweeney,24,TE,7,228,Boston Col.
+Alizé Mack,22,TE,7,231,Notre Dame
+Chandler Cox,23,RB,7,233,Auburn
+Myles Gaskin,22,RB,7,234,Washington
+John Ursua,25,WR,7,236,Hawaii
+Terry Godwin,22,WR,7,237,Georgia
+Dillon Mitchell,22,WR,7,239,Oregon
+Olabisi Johnson,22,WR,7,247,Colorado St.
+Caleb Wilson,23,TE,7,254,UCLA

@@ -1,0 +1,83 @@
+Player,Age,Position,Round,Pick,College
+Cam Newton,22,QB,1,1,Auburn
+A.J. Green,23,WR,1,4,Georgia
+Julio Jones,22,WR,1,6,Alabama
+Jake Locker,23,QB,1,8,Washington
+Blaine Gabbert,21,QB,1,10,Missouri
+Christian Ponder,23,QB,1,12,Florida St.
+Jonathan Baldwin,22,WR,1,26,Pittsburgh
+Mark Ingram,21,RB,1,28,Alabama
+Andy Dalton,23,QB,2,35,TCU
+Colin Kaepernick,23,QB,2,36,Nevada
+Ryan Williams,21,RB,2,38,Virginia Tech
+Kyle Rudolph,21,TE,2,43,Notre Dame
+Titus Young,22,WR,2,44,Boise St.
+Lance Kendricks,23,TE,2,47,Wisconsin
+Shane Vereen,22,RB,2,56,California
+Mikel Leshoure,21,RB,2,57,Illinois
+Torrey Smith,22,WR,2,58,Maryland
+Greg Little,22,WR,2,59,North Carolina
+Daniel Thomas,23,RB,2,62,Kansas St.
+Randall Cobb,21,WR,2,64,Kentucky
+Rob Housler,23,TE,3,69,Florida Atlantic
+DeMarco Murray,23,RB,3,71,Oklahoma
+Stevan Ridley,22,RB,3,73,LSU
+Ryan Mallett,23,QB,3,74,Arkansas
+Austin Pettis,23,WR,3,78,Boise St.
+Leonard Hankerson,22,WR,3,79,Miami (FL)
+Vincent Brown,22,WR,3,82,San Diego St.
+Jerrel Jernigan,22,WR,3,83,Troy
+Alex Green,23,RB,3,96,Hawaii
+Jordan Cameron,23,TE,4,102,USC
+Luke Stocker,23,TE,4,104,Tennessee
+Roy Helu,22,RB,4,105,Nebraska
+Kris Durham,23,WR,4,107,Georgia
+Clyde Gates,25,WR,4,111,Abilene Christian
+Greg Salas,23,WR,4,112,Hawaii
+Cecil Shorts,23,WR,4,114,Mount Union
+Kendall Hunter,22,RB,4,115,Oklahoma St.
+Delone Carter,24,RB,4,119,Syracuse
+Tandon Doss,21,WR,4,123,Indiana
+Owen Marecic,22,RB,4,124,Stanford
+Taiwan Jones,23,RB,4,125,East. Washington
+Bilal Powell,22,RB,4,126,Louisville
+Julius Thomas,23,TE,4,129,Portland St.
+Jamie Harper,21,RB,4,130,Clemson
+Kealoha Pilares,23,WR,5,132,Hawaii
+Johnny White,23,RB,5,133,North Carolina
+Ricky Stanzi,24,QB,5,135,Iowa
+Anthony Sherman,22,RB,5,136,Connecticut
+D.J. Williams,22,TE,5,141,Arkansas
+Jacquizz Rodgers,21,RB,5,145,Oregon St.
+Denarius Moore,22,WR,5,148,Tennessee
+Dion Lewis,20,RB,5,149,Pittsburgh
+T.J. Yates,24,QB,5,152,North Carolina
+Jeremy Kerley,22,WR,5,153,TCU
+Niles Paul,22,WR,5,155,Nebraska
+Lee Smith,23,TE,5,159,Marshall
+Nathan Enderle,23,QB,5,160,Idaho
+Ryan Whalen,22,WR,6,167,Stanford
+Charles Clay,22,TE,6,174,Tulsa
+Dwayne Harris,23,WR,6,176,East Carolina
+Evan Royster,23,RB,6,177,Penn St.
+Aldrick Robinson,22,WR,6,178,SMU
+Tyrod Taylor,22,QB,6,180,Virginia Tech
+Richard Gordon,24,TE,6,181,Miami (FL)
+Ronald Johnson,23,WR,6,182,USC
+Jordan Todman,21,RB,6,183,Connecticut
+Allen Bradford,23,RB,6,187,USC
+Virgil Green,23,TE,7,204,Nevada
+Greg McElroy,23,QB,7,208,Alabama
+Ryan Taylor,23,TE,7,218,North Carolina
+Shaun Chapas,23,RB,7,220,Georgia
+Da'Rel Scott,23,RB,7,221,Maryland
+Shane Bannon,22,RB,7,223,Yale
+Anthony Allen,23,RB,7,225,Georgia Tech
+Scotty McKnight,23,WR,7,227,Colorado
+Baron Batch,23,RB,7,232,Texas Tech
+Stephen Burton,21,WR,7,236,Long Beach CC
+Daniel Hardy,24,TE,7,238,Idaho
+Stanley Havili,23,RB,7,240,USC
+David Ausberry,23,WR,7,241,USC
+Jay Finley,23,RB,7,246,Baylor
+DeMarco Sampson,25,WR,7,249,San Diego St.

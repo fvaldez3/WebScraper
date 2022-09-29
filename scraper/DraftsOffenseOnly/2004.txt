@@ -1,0 +1,81 @@
+Player,Age,Position,Round,Pick,College
+Eli Manning,23,QB,1,1,Mississippi
+Larry Fitzgerald,21,WR,1,3,Pittsburgh
+Philip Rivers,22,QB,1,4,North Carolina St.
+Kellen Winslow,21,TE,1,6,Miami (FL)
+Roy Williams,22,WR,1,7,Texas
+Reggie Williams,21,WR,1,9,Washington
+Ben Roethlisberger,22,QB,1,11,Miami (OH)
+Lee Evans,23,WR,1,13,Wisconsin
+Michael Clayton,21,WR,1,15,LSU
+J.P. Losman,23,QB,1,22,Tulane
+Steven Jackson,21,RB,1,24,Oregon St.
+Chris Perry,22,RB,1,26,Michigan
+Michael Jenkins,22,WR,1,29,Ohio St.
+Kevin Jones,22,RB,1,30,Virginia Tech
+Rashaun Woods,23,WR,1,31,Oklahoma St.
+Ben Watson,23,TE,1,32,Georgia
+Ben Troupe,22,TE,2,40,Florida
+Tatum Bell,23,RB,2,41,Oklahoma St.
+Julius Jones,23,RB,2,43,Notre Dame
+Devery Henderson,22,WR,2,50,LSU
+Darius Watts,22,WR,2,54,Marshall
+Greg Jones,23,RB,2,55,Florida St.
+Kris Wilson,23,TE,2,61,Pittsburgh
+Keary Colbert,22,WR,2,62,USC
+Ben Hartsock,24,TE,3,68,Ohio St.
+Derrick Hamilton,22,WR,3,77,Clemson
+Bernard Berrian,23,WR,3,78,Fresno St.
+Chris Cooley,22,TE,3,81,Utah St.
+Devard Darling,22,WR,3,82,Washington St.
+Matt Schaub,23,QB,3,90,Virginia
+Carlos Francis,23,WR,4,99,Texas Tech
+Samie Parker,23,WR,4,105,Oregon
+Luke McCown,23,QB,4,106,Louisiana Tech
+Jerricho Cotchery,22,WR,4,108,North Carolina St.
+Tim Euhus,23,TE,4,109,Oregon St.
+Mewelde Moore,22,RB,4,119,Tulane
+Ernest Wilford,25,WR,4,120,Virginia Tech
+Cedric Cobbs,23,RB,4,128,Arkansas
+Johnnie Morant,22,WR,5,134,Syracuse
+Sean Ryan,24,TE,5,144,Boston Col.
+Craig Krenzel,23,QB,5,148,Ohio St.
+Maurice Mann,21,WR,5,149,Nevada
+Mark Wilson,23,TE,5,151,California
+Michael Turner,22,RB,5,154,Northern Illinois
+D.J. Hackett,23,WR,5,157,Colorado
+Drew Carter,23,WR,5,163,Ohio St.
+P.K. Sam,20,WR,5,164,Florida St.
+Jamaar Taylor,23,WR,6,168,Texas A&M
+Ryan Krause,23,TE,6,169,Nebraska-Omaha
+Triandos Luke,22,WR,6,171,Alabama
+Nate Lawrie,22,TE,6,181,Yale
+Andy Hall,23,QB,6,185,Delaware
+Josh Harris,,QB,6,187,Bowling Green
+Troy Fleming,23,RB,6,191,Tennessee
+Jim Sorgi,23,QB,6,193,Wisconsin
+Matt Kranchick,24,TE,6,194,Penn St.
+Jeris McIntyre,,WR,6,195,Auburn
+Clarence Moore,21,WR,6,199,Northern Arizona
+Jeff Smoker,,QB,6,201,Michigan St.
+John Navarre,23,QB,7,202,Michigan
+Mark Jones,23,WR,7,206,Tennessee
+Adimchinobe Echemandu,23,RB,7,208,California
+Sloan Thomas,22,WR,7,211,Texas
+Jonathan Smith,22,WR,7,214,Georgia Tech
+Patrick Crayton,25,WR,7,216,NW Oklahoma St.
+Cody Pickett,24,QB,7,217,Washington
+Casey Bramlet,,QB,7,218,Wyoming
+Quincy Wilson,23,RB,7,219,West Virginia
+Jeff Dugan,23,TE,7,220,Maryland
+Matt Mauck,25,QB,7,225,LSU
+Casey Cramer,22,RB,7,228,Dartmouth
+Michael Gaines,24,TE,7,232,Central Florida
+Derrick Ward,24,RB,7,235,Ottawa (KS)
+Erik Jensen,,TE,7,237,Iowa
+Bruce Perry,23,RB,7,242,Maryland
+Derek Abney,,WR,7,244,Kentucky
+Courtney Anderson,23,TE,7,245,San Jose St.
+Brandon Miree,23,RB,7,247,Pittsburgh
+B.J. Symons,,QB,7,248,Texas Tech
+Bradlee Van Pelt,24,QB,7,250,Colorado St.

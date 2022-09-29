@@ -1,0 +1,79 @@
+Player,Age,Position,Round,Pick,College
+Joe Burrow,23,QB,1,1,LSU
+Tua Tagovailoa,22,QB,1,5,Alabama
+Justin Herbert,22,QB,1,6,Oregon
+Henry Ruggs III,21,WR,1,12,Alabama
+Jerry Jeudy,21,WR,1,15,Alabama
+CeeDee Lamb,21,WR,1,17,Oklahoma
+Jalen Reagor,21,WR,1,21,TCU
+Justin Jefferson,21,WR,1,22,LSU
+Brandon Aiyuk,22,WR,1,25,Arizona St.
+Jordan Love,21,QB,1,26,Utah St.
+Clyde Edwards-Helaire,21,RB,1,32,LSU
+Tee Higgins,21,WR,2,33,Clemson
+Michael Pittman Jr.,22,WR,2,34,USC
+D'Andre Swift,21,RB,2,35,Georgia
+Jonathan Taylor,21,RB,2,41,Wisconsin
+Laviska Shenault Jr.,21,WR,2,42,Colorado
+Cole Kmet,21,TE,2,43,Notre Dame
+KJ Hamler,21,WR,2,46,Penn St.
+Chase Claypool,22,WR,2,49,Notre Dame
+Cam Akers,21,RB,2,52,Florida St.
+Jalen Hurts,22,QB,2,53,Oklahoma
+J.K. Dobbins,21,RB,2,55,Ohio St.
+Van Jefferson,24,WR,2,57,Florida
+Denzel Mims,22,WR,2,59,Baylor
+AJ Dillon ,22,RB,2,62,Boston Col.
+Antonio Gibson ,22,RB,3,66,Memphis
+Ke'Shawn Vaughn,23,RB,3,76,Illinois
+Lynn Bowden Jr.,22,WR,3,80,Kentucky
+Bryan Edwards,21,WR,3,81,South Carolina
+Zack Moss,22,RB,3,86,Utah
+Devin Asiasi,23,TE,3,91,UCLA
+Devin Duvernay,22,WR,3,92,Texas
+Darrynton Evans,22,RB,3,93,Appalachian St.
+Josiah Deguara,23,TE,3,94,Cincinnati
+Dalton Keene,21,TE,3,101,Virginia Tech
+Adam Trautman,23,TE,3,105,Dayton
+Joshua Kelley,22,RB,4,112,UCLA
+Harrison Bryant,22,TE,4,115,Florida Atlantic
+Albert Okwuegbunam,22,TE,4,118,Missouri
+La'Mical Perine,22,RB,4,120,Florida
+Jacob Eason,22,QB,4,122,Washington
+Anthony McFarland Jr.,21,RB,4,124,Maryland
+James Morgan,23,QB,4,125,Florida International
+Gabriel Davis,21,WR,4,128,Central Florida
+Colby Parkinson,21,TE,4,133,Stanford
+Brycen Hopkins,23,TE,4,136,Purdue
+Antonio Gandy-Golden,22,WR,4,142,Liberty
+DeeJay Dallas,21,RB,4,144,Miami (FL)
+Joe Reed,22,WR,5,151,Virginia
+Tyler Johnson,22,WR,5,161,Minnesota
+Collin Johnson,22,WR,5,165,Texas
+Quintez Cephus,22,WR,5,166,Wisconsin
+Jake Fromm,22,QB,5,167,Georgia
+John Hightower,24,WR,5,168,Boise St.
+Isaiah Coulter,21,WR,5,171,Rhode Island
+Jason Huntley,22,RB,5,172,New Mexico St.
+Darnell Mooney,22,WR,5,173,Tulane
+K.J. Osborn,23,WR,5,176,Miami (FL)
+Donovan Peoples-Jones,21,WR,6,187,Michigan
+Jake Luton,24,QB,6,189,Oregon St.
+Charlie Woerner,22,TE,6,190,Georgia
+Quez Watkins,22,WR,6,200,Southern Miss
+James Proche,23,WR,6,201,SMU
+Tyler Davis,23,TE,6,206,Georgia Tech
+Isaiah Hodgins,21,WR,6,207,Oregon St.
+Dezmon Patmon,22,WR,6,212,Washington St.
+Freddie Swain,22,WR,6,214,Florida
+Jauan Jennings,23,WR,7,217,Tennessee
+K.J. Hill,22,WR,7,220,Ohio St.
+Eno Benjamin,21,RB,7,222,Arizona St.
+Cole McDonald,22,QB,7,224,Hawaii
+Ben DiNucci,23,QB,7,231,James Madison
+Tommy Stevens,23,QB,7,240,Mississippi St.
+Nate Stanley,23,QB,7,244,Iowa
+Raymond Calais,22,RB,7,245,Louisiana
+Malcolm Perry,23,RB,7,246,Navy
+Stephen Sullivan,23,TE,7,251,LSU
+Tyrie Cleveland,22,WR,7,252,Florida

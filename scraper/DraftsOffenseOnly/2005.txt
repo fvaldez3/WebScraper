@@ -1,0 +1,78 @@
+Player,Age,Position,Round,Pick,College
+Alex Smith,21,QB,1,1,Utah
+Ronnie Brown,23,RB,1,2,Auburn
+Braylon Edwards,22,WR,1,3,Michigan
+Cedric Benson,22,RB,1,4,Texas
+Cadillac Williams,23,RB,1,5,Auburn
+Troy Williamson,22,WR,1,7,South Carolina
+Mike Williams,21,WR,1,10,USC
+Matt Jones,22,WR,1,21,Arkansas
+Mark Clayton,23,WR,1,22,Oklahoma
+Aaron Rodgers,21,QB,1,24,California
+Jason Campbell,23,QB,1,25,Auburn
+Roddy White,23,WR,1,27,Ala-Birmingham
+Heath Miller,22,TE,1,30,Virginia
+Reggie Brown,24,WR,2,35,Georgia
+Mark Bradley,23,WR,2,39,Oklahoma
+J.J. Arrington,22,RB,2,44,California
+Eric Shelton,22,RB,2,54,Louisville
+Roscoe Parrish,23,WR,2,55,Miami (FL)
+Terrence Murphy,22,WR,2,58,Texas A&M
+Vincent Jackson,22,WR,2,61,Northern Colorado
+Frank Gore,22,RB,3,65,Miami (FL)
+Charlie Frye,24,QB,3,67,Akron
+Courtney Roby,22,WR,3,68,Indiana
+Andrew Walter,23,QB,3,69,Arizona St.
+Alex Smith,23,TE,3,71,Stanford
+Vernand Morency,25,RB,3,73,Oklahoma St.
+Ryan Moats,22,RB,3,77,Louisiana Tech
+Chris Henry,22,WR,3,83,West Virginia
+David Greene,,QB,3,85,Georgia
+Kevin Everett,23,TE,3,86,Miami (FL)
+Brandon Jones,23,WR,3,96,Oklahoma
+Maurice Clarett,,RB,3,101,Ohio St.
+Kyle Orton,22,QB,4,106,Purdue
+Marion Barber III,22,RB,4,109,Minnesota
+Brandon Jacobs,23,RB,4,110,Southern Illinois
+Ciatrick Fason,22,RB,4,112,Florida
+Jerome Mathis,22,WR,4,114,Hampton
+Craphonso Thorpe,22,WR,4,116,Florida St.
+Chase Lyman,,WR,4,118,California
+Manuel White,,RB,4,120,UCLA
+Stefan Lefors,,QB,4,121,Louisville
+Alvin Pearman,23,RB,4,127,Virginia
+Darren Sproles,22,RB,4,130,Kansas St.
+Fred Gibson,,WR,4,131,Georgia
+Roydell Williams,24,WR,4,136,Tulane
+Airese Currie,22,WR,5,140,Clemson
+Damien Nash,23,RB,5,142,Missouri
+Jerome Collins,23,TE,5,144,Notre Dame
+Dan Orlovsky,22,QB,5,145,Connecticut
+Adrian McPherson,,QB,5,152,Florida St.
+Larry Brackins,,WR,5,155,Pearl River CC
+Rasheed Marshall,24,WR,5,174,West Virginia
+Bo Scaife,24,TE,6,179,Texas
+Cedric Houston,23,RB,6,182,Tennessee
+Chad Owens,23,WR,6,185,Hawaii
+Tab Perry,23,WR,6,190,UCLA
+Dante Ridgeway,21,WR,6,192,Ball St.
+Craig Bragg,,WR,6,195,UCLA
+Tony Jackson,,TE,6,196,Iowa
+Joel Dreessen,23,TE,6,198,Colorado St.
+DeAndra Cobb,24,RB,6,201,Michigan St.
+Derek Anderson,22,QB,6,213,Oregon St.
+Rick Razzano,,RB,7,221,Mississippi
+Marcus Maxwell,22,WR,7,223,Oregon
+Paris Warren,23,WR,7,225,Utah
+LeRon McCoy,23,WR,7,226,Indiana (PA)
+James Kilian,,QB,7,229,Tulsa
+Matt Cassel,23,QB,7,230,USC
+Lionel Gates,23,RB,7,236,Louisville
+Harry Williams,23,WR,7,240,Tuskegee
+Anthony Davis,,RB,7,243,Wisconsin
+Noah Herron,23,RB,7,244,Northwestern
+Patrick Estes,22,TE,7,248,Virginia
+Billy Bajema,22,TE,7,249,Oklahoma St.
+Ryan Fitzpatrick,22,QB,7,250,Harvard
+J.R. Russell,,WR,7,253,Louisville
+Andy Stokes,,TE,7,255,William Penn

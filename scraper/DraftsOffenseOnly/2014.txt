@@ -1,0 +1,78 @@
+Player,Age,Position,Round,Pick,College
+Blake Bortles,22,QB,1,3,Central Florida
+Sammy Watkins,21,WR,1,4,Clemson
+Mike Evans,21,WR,1,7,Texas A&M
+Eric Ebron,21,TE,1,10,North Carolina
+Odell Beckham Jr.,21,WR,1,12,LSU
+Brandin Cooks,20,WR,1,20,Oregon St.
+Johnny Manziel,21,QB,1,22,Texas A&M
+Kelvin Benjamin,23,WR,1,28,Florida St.
+Teddy Bridgewater,21,QB,1,32,Louisville
+Derek Carr,23,QB,2,36,Fresno St.
+Austin Seferian-Jenkins,21,TE,2,38,Washington
+Marqise Lee,22,WR,2,39,USC
+Jordan Matthews,22,WR,2,42,Vanderbilt
+Paul Richardson,22,WR,2,45,Colorado
+Jace Amaro,22,TE,2,49,Texas Tech
+Troy Niklas,21,TE,2,52,Notre Dame
+Davante Adams,21,WR,2,53,Fresno St.
+Bishop Sankey,21,RB,2,54,Washington
+Jeremy Hill,21,RB,2,55,LSU
+Cody Latimer,21,WR,2,56,Indiana
+Carlos Hyde,23,RB,2,57,Ohio St.
+Allen Robinson,21,WR,2,61,Penn St.
+Jimmy Garoppolo,22,QB,2,62,Eastern Illinois
+Jarvis Landry,21,WR,2,63,LSU
+C.J. Fiedorowicz,22,TE,3,65,Iowa
+Charles Sims,23,RB,3,69,West Virginia
+Tre Mason,21,RB,3,75,Auburn
+Josh Huff,22,WR,3,86,Oregon
+Donte Moncrief,21,WR,3,90,Mississippi
+John Brown,24,WR,3,91,Pittsburg St.
+Terrance West,23,RB,3,94,Towson
+Jerick McKinnon,22,RB,3,96,Georgia Southern
+Dri Archer,23,WR,3,97,Kent St.
+Richard Rodgers,22,TE,3,98,California
+Crockett Gillmore,22,TE,3,99,Colorado St.
+Devonta Freeman,22,RB,4,103,Florida St.
+Jalen Saunders,21,WR,4,104,Oklahoma
+Bruce Ellington,23,WR,4,106,South Carolina
+Andre Williams,22,RB,4,113,Boston Col.
+Shaquelle Evans,23,WR,4,115,UCLA
+Ka'Deem Carey,21,RB,4,117,Arizona
+Martavis Bryant,22,WR,4,118,Clemson
+Logan Thomas,23,QB,4,120,Virginia Tech
+Kevin Norwood,24,WR,4,123,Alabama
+De'Anthony Thomas,21,RB,4,124,Oregon
+James White,22,RB,4,130,Wisconsin
+Tom Savage,24,QB,4,135,Pittsburgh
+Lorenzo Taliaferro,22,RB,4,138,Coastal Carolina
+Ryan Grant,23,WR,5,142,Tulane
+Devin Street,23,WR,5,146,Pittsburgh
+Arthur Lynch,24,TE,5,155,Georgia
+Aaron Murray,23,QB,5,163,Georgia
+A.J. McCarron,23,QB,5,164,Alabama
+Jared Abbrederis,23,WR,5,176,Wisconsin
+Zach Mettenberger,23,QB,6,178,LSU
+Alfred Blue,23,RB,6,181,LSU
+David Fales,23,QB,6,183,San Jose St.
+Robert Herron,22,WR,6,185,Wyoming
+Lache Seastrunk,23,RB,6,186,Baylor
+T.J. Jones,22,WR,6,189,Notre Dame
+Matt Hazel,22,WR,6,190,Coastal Carolina
+Keith Wenning,23,QB,6,194,Ball St.
+Walt Powell,22,WR,6,196,Murray St.
+Marion Grice,23,RB,6,201,Arizona St.
+Tyler Gaffney,23,RB,6,204,Stanford
+Quincy Enunwa,22,WR,6,209,Nebraska
+Tajh Boyd,23,QB,6,213,Clemson
+Garrett Gilbert,23,QB,6,214,SMU
+Ted Bolser,23,TE,7,217,Indiana
+Michael Campanaro,23,WR,7,218,Wake Forest
+Storm Johnson,22,RB,7,222,Central Florida
+Kiero Small,25,RB,7,227,Arkansas
+Rob Blanchflower,24,TE,7,230,Massachusetts
+Jeff Janis,23,WR,7,236,Saginaw Valley St.
+James Wright,22,WR,7,239,LSU
+Tevin Reese,23,WR,7,240,Baylor
+Jeremy Gallon,24,WR,7,244,Michigan

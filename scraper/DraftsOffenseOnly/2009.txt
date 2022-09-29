@@ -1,0 +1,88 @@
+Player,Age,Position,Round,Pick,College
+Matthew Stafford,21,QB,1,1,Georgia
+Mark Sanchez,22,QB,1,5,USC
+Darrius Heyward-Bey,22,WR,1,7,Maryland
+Michael Crabtree,21,WR,1,10,Texas Tech
+Knowshon Moreno,22,RB,1,12,Georgia
+Josh Freeman,21,QB,1,17,Kansas St.
+Jeremy Maclin,21,WR,1,19,Missouri
+Brandon Pettigrew,24,TE,1,20,Oklahoma St.
+Percy Harvin,21,WR,1,22,Florida
+Donald Brown,22,RB,1,27,Connecticut
+Hakeem Nicks,21,WR,1,29,North Carolina
+Kenny Britt,20,WR,1,30,Rutgers
+Beanie Wells,21,RB,1,31,Ohio St.
+Brian Robiskie,21,WR,2,36,Ohio St.
+Pat White,23,QB,2,44,West Virginia
+Mohamed Massaquoi,22,WR,2,50,Georgia
+LeSean McCoy,21,RB,2,53,Pittsburgh
+Richard Quinn,23,TE,2,64,North Carolina
+Shonn Greene,24,RB,3,65,Iowa
+Glen Coffee,22,RB,3,74,Alabama
+Derrick Williams,23,WR,3,82,Penn St.
+Brandon Tate,21,WR,3,83,North Carolina
+Mike Wallace,23,WR,3,84,Mississippi
+Ramses Barden,23,WR,3,85,Cal Poly-San Luis Obispo
+Patrick Turner,22,WR,3,87,USC
+Jared Cook,22,TE,3,89,South Carolina
+Deon Butler,23,WR,3,91,Penn St.
+Chase Coffman,22,TE,3,98,Missouri
+Juaquin Iglesias,22,WR,3,99,Oklahoma
+Travis Beckum,22,TE,3,100,Wisconsin
+Stephen McGee,23,QB,4,101,Texas A&M
+Mike Thomas,22,WR,4,107,Arizona
+Brian Hartline,22,WR,4,108,Ohio St.
+Mike Goodson,22,RB,4,111,Texas A&M
+Shawn Nelson,23,TE,4,121,Southern Miss
+Anthony Hill,24,TE,4,122,North Carolina St.
+Louis Murphy,22,WR,4,124,Florida
+Austin Collie,23,WR,4,127,BYU
+Tony Fiammetta,23,RB,4,128,Syracuse
+Andre Brown,22,RB,4,129,North Carolina St.
+Gartrell Johnson,23,RB,4,134,Colorado St.
+Johnny Knox,22,WR,5,140,Abilene Christian
+Kenny McKinley,22,WR,5,141,South Carolina
+Jarett Dillard,23,WR,5,144,Rice
+Quinn Johnson,22,RB,5,145,LSU
+Davon Drew,23,TE,5,149,East Carolina
+Rhett Bomar,24,QB,5,151,Sam Houston St.
+James Casey,24,TE,5,152,Rice
+Cornelius Ingram,24,TE,5,153,Florida
+Brooks Foster,23,WR,5,160,North Carolina
+John Nalbone,23,TE,5,161,Monmouth
+Frank Summers,24,RB,5,169,UNLV
+Nate Davis,22,QB,5,171,Ball St.
+Javon Ringer,22,RB,5,173,Michigan St.
+Tom Brandstater,24,QB,6,174,Fresno St.
+Quinten Lawrence,24,WR,6,175,McNeese St.
+Mike Teel,23,QB,6,178,Rutgers
+Zach Miller,24,TE,6,180,Nebraska-Omaha
+Bear Pascoe,23,TE,6,184,Fresno St.
+Cedric Peerman,22,RB,6,185,Virginia
+Aaron Brown,23,RB,6,192,TCU
+Brandon Gibson,22,WR,6,194,Washington St.
+James Davis,23,RB,6,195,Clemson
+Keith Null,23,QB,6,196,West Texas A&M
+Curtis Painter,24,QB,6,201,Purdue
+Brandon Myers,24,TE,6,202,Iowa
+Dominique Edison,23,WR,6,206,S.F. Austin
+John Phillips,22,TE,6,208,Virginia
+Bernard Scott,25,RB,6,209,Abilene Christian
+Chris Ogbonnaya,23,RB,7,211,Texas
+Javarris Williams,23,RB,7,212,Tennessee St.
+Fui Vakapuna,25,RB,7,215,BYU
+Eddie Williams,22,RB,7,221,Idaho
+Demetrius Byrd,,WR,7,224,LSU
+Manuel Johnson,22,WR,7,229,Oklahoma
+Julian Edelman,23,WR,7,232,Kent St.
+Sammie Stroughter,23,WR,7,233,Oregon St.
+Jake O'Connell,23,TE,7,237,Miami (OH)
+LaRod Stephens-Howling,22,RB,7,240,Pittsburgh
+David Johnson,22,TE,7,241,Arkansas St.
+Marko Mitchell,24,WR,7,243,Nevada
+Cameron Morrah,22,TE,7,248,California
+Rashad Jennings,24,RB,7,250,Liberty
+Derek Kinder,,WR,7,251,Pittsburgh
+Freddie Brown,,WR,7,252,Utah
+Tiquan Underwood,22,WR,7,253,Rutgers
+Dan Gronkowski,24,TE,7,255,Maryland

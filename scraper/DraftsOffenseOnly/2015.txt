@@ -1,0 +1,80 @@
+Player,Age,Position,Round,Pick,College
+Jameis Winston,21,QB,1,1,Florida St.
+Marcus Mariota,21,QB,1,2,Oregon
+Amari Cooper,21,WR,1,4,Alabama
+Kevin White,23,WR,1,7,West Virginia
+Todd Gurley,21,RB,1,10,Georgia
+DeVante Parker,22,WR,1,14,Louisville
+Melvin Gordon,22,RB,1,15,Wisconsin
+Nelson Agholor,22,WR,1,20,USC
+Breshad Perriman,21,WR,1,26,Central Florida
+Phillip Dorsett,22,WR,1,29,Miami (FL)
+T.J. Yeldon,21,RB,2,36,Alabama
+Devin Smith,23,WR,2,37,Ohio St.
+Dorial Green-Beckham,22,WR,2,40,Oklahoma
+Devin Funchess,21,TE,2,41,Michigan
+Ameer Abdullah,22,RB,2,54,Nebraska
+Maxx Williams,21,TE,2,55,Minnesota
+Clive Walford,23,TE,3,68,Miami (FL)
+Tyler Lockett,22,WR,3,69,Kansas St.
+Jaelen Strong,21,WR,3,70,Arizona St.
+Tevin Coleman,22,RB,3,73,Indiana
+Garrett Grayson,24,QB,3,75,Colorado St.
+Chris Conley,22,WR,3,76,Georgia
+Duke Johnson,21,RB,3,77,Miami (FL)
+Tyler Kroft,22,TE,3,85,Rutgers
+David Johnson,23,RB,3,86,Northern Iowa
+Sammie Coates,22,WR,3,87,Auburn
+Sean Mannion,23,QB,3,89,Oregon St.
+Jeff Heuerman,22,TE,3,92,Ohio St.
+Ty Montgomery,22,WR,3,94,Stanford
+Matt Jones,22,RB,3,95,Florida
+Bryce Petty,24,QB,4,103,Baylor
+Jamison Crowder,22,WR,4,105,Duke
+Jeremy Langford,23,RB,4,106,Michigan St.
+Justin Hardy,23,WR,4,107,East Carolina
+Blake Bell,24,TE,4,117,Oklahoma
+Vince Mayle,24,WR,4,123,Washington St.
+Javorius Allen,24,RB,4,125,USC
+Mike Davis,22,RB,4,126,South Carolina
+DeAndre Smelter,23,WR,4,132,Georgia Tech
+David Cobb,22,RB,5,138,Minnesota
+Rashad Greene,22,WR,5,139,Florida St.
+MyCole Pruitt,23,TE,5,143,Southern Illinois
+Stefon Diggs,21,WR,5,146,Maryland
+Brett Hundley,22,QB,5,147,UCLA
+Jay Ajayi,22,RB,5,149,Boise St.
+Karlos Williams,22,RB,5,155,Florida St.
+Tony Lippett,23,WR,5,156,Michigan St.
+C.J. Uzomah,22,TE,5,157,Auburn
+JJ Nelson,23,WR,5,159,Ala-Birmingham
+Jesse James,21,TE,5,160,Penn St.
+Kenny Bell,23,WR,5,162,Nebraska
+Nick Boyle,22,TE,5,171,Delaware
+James O'Shaughnessy,23,TE,5,173,Illinois St.
+Cameron Artis-Payne,25,RB,5,174,Auburn
+Keith Mumphery,23,WR,5,175,Michigan St.
+Kaelin Clay,23,WR,6,184,Utah
+Geremy Davis,23,WR,6,186,Connecticut
+Evan Spencer,22,WR,6,187,Ohio St.
+Nick O'Leary,23,TE,6,194,Florida St.
+Malcolm Johnson,23,TE,6,195,Mississippi St.
+Randall Telfer,23,TE,6,198,USC
+Bud Sasser,,WR,6,201,Missouri
+A.J. Derby,23,TE,6,202,Arkansas
+Darren Waller,22,WR,6,204,Georgia Tech
+Josh Robinson,23,RB,6,205,Mississippi St.
+Kennard Backman,22,TE,6,213,Ala-Birmingham
+Neal Sterling,23,WR,7,220,Monmouth
+Andre Debose,,WR,7,221,Florida
+Ben Koyack,22,TE,7,229,Notre Dame
+Marcus Murphy,23,RB,7,230,Missouri
+Da'Ron Brown,23,WR,7,233,Northern Illinois
+Dezmin Lewis,22,WR,7,234,Central Arkansas
+Kenny Hilliard,23,RB,7,235,LSU
+Mario Alford,23,WR,7,238,West Virginia
+Tre McBride,22,WR,7,245,William & Mary
+Geoff Swaim,21,TE,7,246,Texas
+Trevor Siemian,23,QB,7,250,Northwestern
+Rory Anderson,22,TE,7,254,South Carolina
+Gerald Christian,24,TE,7,256,Louisville

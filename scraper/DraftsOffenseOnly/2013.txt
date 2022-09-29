@@ -1,0 +1,81 @@
+Player,Age,Position,Round,Pick,College
+Tavon Austin,23,WR,1,8,West Virginia
+EJ Manuel,23,QB,1,16,Florida St.
+Tyler Eifert,22,TE,1,21,Notre Dame
+DeAndre Hopkins,21,WR,1,27,Clemson
+Cordarrelle Patterson,22,WR,1,29,Tennessee
+Justin Hunter,22,WR,2,34,Tennessee
+Zach Ertz,22,TE,2,35,Stanford
+Giovani Bernard,21,RB,2,37,North Carolina
+Geno Smith,22,QB,2,39,West Virginia
+Robert Woods,21,WR,2,41,USC
+Gavin Escobar,22,TE,2,47,San Diego St.
+Le'Veon Bell,21,RB,2,48,Michigan St.
+Vance McDonald ,23,TE,2,55,Rice
+Montee Ball,22,RB,2,58,Wisconsin
+Aaron Dobson,22,WR,2,59,Marshall
+Eddie Lacy,23,RB,2,61,Alabama
+Christine Michael,22,RB,2,62,Texas A&M
+Travis Kelce,23,TE,3,63,Cincinnati
+Mike Glennon,23,QB,3,73,North Carolina St.
+Terrance Williams,23,WR,3,74,Baylor
+Keenan Allen,21,WR,3,76,California
+Marquise Goodwin,22,WR,3,78,Texas
+Markus Wheaton,22,WR,3,79,Oregon St.
+Jordan Reed,23,TE,3,85,Florida
+Stedman Bailey,22,WR,3,92,West Virginia
+Knile Davis,21,RB,3,96,Arkansas
+Matt Barkley,22,QB,4,98,USC
+Ace Sanders,21,WR,4,101,South Carolina
+Josh Boyce,22,WR,4,102,TCU
+Dion Sims,22,TE,4,106,Michigan St.
+Ryan Nassib,23,QB,4,110,Syracuse
+Tyler Wilson,24,QB,4,112,Arkansas
+Landry Jones,24,QB,4,115,Oklahoma
+Chris Harper,23,WR,4,123,Kansas St.
+Johnathan Franklin,23,RB,4,125,UCLA
+Quinton Patton,23,WR,4,128,Louisiana Tech
+Kyle Juszczyk,22,RB,4,130,Harvard
+Marcus Lattimore,21,RB,4,131,South Carolina
+Levine Toilolo,22,TE,4,133,Stanford
+Denard Robinson,22,WR,5,135,Michigan
+Stepfan Taylor,22,RB,5,140,Stanford
+Kenny Stills,21,WR,5,144,Oklahoma
+Joseph Randle,21,RB,5,151,Oklahoma St.
+Chris Thompson,22,RB,5,154,Florida St.
+Luke Willson,23,TE,5,158,Rice
+Zac Stacy,22,RB,5,160,Vanderbilt
+Tavarres King,23,WR,5,161,Georgia
+Mike Gillislee,22,RB,5,164,Florida
+Corey Fuller,23,WR,6,171,Virginia Tech
+Nick Kasa,22,TE,6,172,Colorado
+Ryan Swope,22,WR,6,174,Texas A&M
+Latavius Murray,23,RB,6,181,Central Florida
+Kenjon Barner,24,RB,6,182,Oregon
+Mychal Rivera,22,TE,6,184,Tennessee
+Justin Brown,22,WR,6,186,Oklahoma
+Andre Ellington,24,RB,6,187,Clemson
+Mike James,22,RB,6,189,Miami (FL)
+Rex Burkhead,23,RB,6,190,Nebraska
+Spencer Ware,21,RB,6,194,LSU
+Alan Bonner,22,WR,6,195,Jacksonville St.
+Cobi Hamilton,22,WR,6,197,Arkansas
+Theo Riddick,22,RB,6,199,Notre Dame
+Ryan Griffin,23,TE,6,201,Connecticut
+Brice Butler,23,WR,7,209,San Diego St.
+Michael Williams,22,TE,7,211,Alabama
+Tommy Bohanon,22,RB,7,215,Wake Forest
+Charles Johnson,24,WR,7,216,Grand Valley St.
+D.C. Jefferson,24,TE,7,219,Rutgers
+Brad Sorensen,25,QB,7,221,Southern Utah
+Chris Gragg,23,TE,7,222,Arkansas
+Kevin Dorsey,23,WR,7,224,Maryland
+Jawan Jamison,21,RB,7,228,Rutgers
+Kerwynn Williams,22,RB,7,230,Utah St.
+Zac Dysert,23,QB,7,234,Miami (OH)
+Marquess Wilson,20,WR,7,236,Washington St.
+B.J. Daniels,24,QB,7,237,South Florida
+Aaron Mellette,23,WR,7,238,Elon
+Sean Renfree,23,QB,7,249,Duke
+Michael Cox,24,RB,7,253,Massachusetts
+Justice Cunningham,22,TE,7,254,South Carolina

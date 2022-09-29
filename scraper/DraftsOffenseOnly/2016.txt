@@ -1,0 +1,78 @@
+Player,Age,Position,Round,Pick,College
+Jared Goff,21,QB,1,1,California
+Carson Wentz,23,QB,1,2,North Dakota St.
+Ezekiel Elliott,21,RB,1,4,Ohio St.
+Corey Coleman,22,WR,1,15,Baylor
+Will Fuller,22,WR,1,21,Notre Dame
+Josh Doctson,23,WR,1,22,TCU
+Laquon Treadwell,21,WR,1,23,Mississippi
+Paxton Lynch,22,QB,1,26,Memphis
+Hunter Henry,21,TE,2,35,Arkansas
+Sterling Shepard,23,WR,2,40,Oklahoma
+Derrick Henry ,22,RB,2,45,Alabama
+Michael Thomas,23,WR,2,47,Ohio St.
+Christian Hackenberg,21,QB,2,51,Penn St.
+Tyler Boyd,21,WR,2,55,Pittsburgh
+Kenyan Drake,22,RB,3,73,Alabama
+Austin Hooper,21,TE,3,81,Stanford
+Braxton Miller,23,WR,3,85,Ohio St.
+Leonte Carroo,22,WR,3,86,Rutgers
+C.J. Prosise,22,RB,3,90,Notre Dame
+Jacoby Brissett,23,QB,3,91,North Carolina St.
+Cody Kessler,23,QB,3,93,USC
+Nick Vannett,23,TE,3,94,Ohio St.
+Connor Cook,23,QB,4,100,Michigan St.
+Chris Moore,23,WR,4,107,Cincinnati
+Tyler Higbee,23,TE,4,110,Western Kentucky
+Malcolm Mitchell,24,WR,4,112,Georgia
+Ricardo Louis,22,WR,4,114,Auburn
+Pharoh Cooper,21,WR,4,117,South Carolina
+Tyler Ervin,22,RB,4,119,San Jose St.
+Demarcus Robinson,21,WR,4,126,Florida
+Kenneth Dixon,22,RB,4,134,Louisiana Tech
+Dak Prescott,23,QB,4,135,Mississippi St.
+Devontae Booker,24,RB,4,136,Utah
+Seth Devalve,23,TE,4,138,Princeton
+Cardale Jones,23,QB,4,139,Ohio St.
+Tajae Sharpe,21,WR,5,140,Massachusetts
+DeAndre Washington,23,RB,5,143,Texas Tech
+Paul Perkins,21,RB,5,149,UCLA
+Jordan Howard,21,RB,5,150,Indiana
+Wendell Smallwood,22,RB,5,153,West Virginia
+Jordan Payton,23,WR,5,154,UCLA
+Jonathan Williams,22,RB,5,156,Arkansas
+Kevin Hogan,23,QB,5,162,Stanford
+Trevor Davis,23,WR,5,163,California
+Tyreek Hill,22,WR,5,165,West Alabama
+Alex Collins,22,RB,5,171,Arkansas
+Rashard Higgins,21,WR,5,172,Colorado St.
+Temarrick Hemingway,23,TE,6,177,South Carolina St.
+Moritz Boehringer,22,WR,6,180,
+Keenan Reynolds,22,RB,6,182,Navy
+Jerell Adams,23,TE,6,184,South Carolina
+Jakeem Grant,23,WR,6,186,Texas Tech
+Nate Sudfeld,22,QB,6,187,Indiana
+David Morgan,23,TE,6,188,Texas-San Antonio
+Jake Rudock,23,QB,6,191,Michigan
+Kolby Listenbee,22,WR,6,192,TCU
+Cody Core,22,WR,6,199,Mississippi
+Brandon Allen,24,QB,6,201,Arkansas
+Mike Thomas,22,WR,6,206,Southern Miss
+Jeff Driskel,23,QB,6,207,Louisiana Tech
+Kelvin Taylor,22,RB,6,211,Florida
+Aaron Burbridge,22,WR,6,213,Michigan St.
+Darius Jackson,22,RB,6,216,East. Michigan
+Rico Gathers,22,TE,6,217,Baylor
+Brandon Doughty,24,QB,7,223,Western Kentucky
+Devin Lucien,23,WR,7,225,Arizona St.
+Demarcus Ayers,22,WR,7,229,Houston
+Daniel Braverman,22,WR,7,230,Western Michigan
+Thomas Duarte,21,TE,7,231,UCLA
+Dwayne Washington,22,RB,7,236,Washington
+Daniel Lasco,23,RB,7,237,California
+Devin Fuller,22,WR,7,238,UCLA
+Charone Peake,23,WR,7,241,Clemson
+Keith Marshall,22,RB,7,242,Georgia
+Kenny Lawler,22,WR,7,243,California
+Zac Brooks,23,RB,7,247,Clemson
+Beau Sandland,23,TE,7,252,Montana St.

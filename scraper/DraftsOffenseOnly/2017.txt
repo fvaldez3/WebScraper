@@ -1,0 +1,84 @@
+Player,Age,Position,Round,Pick,College
+Mitchell Trubisky,23,QB,1,2,North Carolina
+Leonard Fournette,22,RB,1,4,LSU
+Corey Davis,22,WR,1,5,Western Michigan
+Mike Williams,22,WR,1,7,Clemson
+Christian McCaffrey,21,RB,1,8,Stanford
+John Ross,21,WR,1,9,Washington
+Patrick Mahomes,21,QB,1,10,Texas Tech
+Deshaun Watson,21,QB,1,12,Clemson
+O.J. Howard,22,TE,1,19,Alabama
+Evan Engram,23,TE,1,23,Mississippi
+David Njoku,21,TE,1,29,Miami (FL)
+Zay Jones,22,WR,2,37,East Carolina
+Curtis Samuel,21,WR,2,40,Ohio St.
+Dalvin Cook,22,RB,2,41,Florida St.
+Gerald Everett,23,TE,2,44,South Alabama
+Adam Shaheen,22,TE,2,45,Ashland
+Joe Mixon,21,RB,2,48,Oklahoma
+DeShone Kizer,21,QB,2,52,Notre Dame
+JuJu Smith-Schuster,20,WR,2,62,USC
+Alvin Kamara,22,RB,3,67,Tennessee
+Cooper Kupp,24,WR,3,69,East. Washington
+Taywan Taylor,22,WR,3,72,Western Kentucky
+ArDarius Stewart,23,WR,3,79,Alabama
+Carlos Henderson,22,WR,3,82,Louisiana Tech
+Chris Godwin,21,WR,3,84,Penn St.
+Kareem Hunt,22,RB,3,86,Toledo
+Davis Webb,22,QB,3,87,California
+D'Onta Foreman,21,RB,3,89,Texas
+Kenny Golladay,23,WR,3,96,Northern Illinois
+Chad Williams,22,WR,3,98,Grambling St.
+Jonnu Smith,22,TE,3,100,Florida International
+C.J. Beathard,23,QB,3,104,Iowa
+James Conner,22,RB,3,105,Pittsburgh
+Amara Darboh,23,WR,3,106,Michigan
+Dede Westbrook,23,WR,4,110,Oklahoma
+Samaje Perine,21,RB,4,114,Oklahoma
+Josh Reynolds,22,WR,4,117,Texas A&M
+Mack Hollins,23,WR,4,118,North Carolina
+Tarik Cohen,22,RB,4,119,North Carolina A&T
+Joe Williams,24,RB,4,121,Utah
+Michael Roberts,23,TE,4,127,Toledo
+Josh Malone,21,WR,4,128,Tennessee
+Donnel Pumphrey,22,RB,4,132,San Diego St.
+Ryan Switzer,22,WR,4,133,North Carolina
+Jamaal Williams,22,RB,4,134,BYU
+Joshua Dobbs,22,QB,4,135,Tennessee
+Jehu Chesson,23,WR,4,139,Michigan
+Wayne Gallman,22,RB,4,140,Clemson
+Chad Hansen,22,WR,4,141,California
+Marlon Mack,21,RB,4,143,South Florida
+Jake Butt,22,TE,5,145,Michigan
+George Kittle,23,TE,5,146,Iowa
+Jordan Leggett,22,TE,5,150,Clemson
+Jeremy Sprinkle,23,TE,5,154,Arkansas
+Brian Hill,21,RB,5,156,Wyoming
+Jeremy McNichols,21,RB,5,162,Boise St.
+Shelton Gibson,23,WR,5,166,West Virginia
+Rodney Adams,22,WR,5,170,South Florida
+Nathan Peterman,23,QB,5,171,Pittsburgh
+Isaiah McKenzie,22,WR,5,172,Georgia
+Eric Saubert,23,TE,5,174,Drake
+DeAngelo Yancey,22,WR,5,175,Purdue
+Trent Taylor,23,WR,5,177,Louisiana Tech
+T.J. Logan,23,RB,5,179,North Carolina
+Aaron Jones,22,RB,5,182,Texas-El Paso
+Elijah McGuire,23,RB,6,188,Louisiana
+Bucky Hodges,22,TE,6,201,Virginia Tech
+De'Angelo Henderson,24,RB,6,203,Coastal Carolina
+Brandon Wilson,23,RB,6,207,Houston
+Robert Davis,22,WR,6,209,Georgia St.
+Brad Kaaya,22,QB,6,215,Miami (FL)
+Stacy Coley,23,WR,7,219,Miami (FL)
+David Moore,22,WR,7,226,East Central (OK)
+Isaiah Ford,21,WR,7,237,Virginia Tech
+Devante Mays,23,RB,7,238,Utah St.
+Noah Brown,21,WR,7,239,Ohio St.
+Khalfani Muhammad,22,RB,7,241,California
+Elijah Hood,21,RB,7,242,North Carolina
+Malachi Dupre,21,WR,7,247,LSU
+Chris Carson,22,RB,7,249,Oklahoma St.
+Mason Schreck,23,TE,7,251,Buffalo
+Matthew Dayes,23,RB,7,252,North Carolina St.
+Chad Kelly,23,QB,7,253,Mississippi
