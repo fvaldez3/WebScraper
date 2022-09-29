@@ -2,8 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 
 def main():
-    headers = ["Rnd","Pick","Player","Pos","Age","College/Univ"]
     wantedPositions = ["QB","RB","WR","TE"]
+    #Use this to determine which year or years you want
     yearIndex = 2000
     finalYear = 2022
 
